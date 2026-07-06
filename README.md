@@ -2,7 +2,7 @@
 
 A hands-on implementation guide covering **11 real ADF pipeline patterns** — from dynamic file movement to event-driven ingestion, incremental loads, and production error handling.
 
-📄 **[View full documentation](./Azure-Data-Factory-Real-World-Scenarios.docx)**
+📄 **[View full documentation](.[/Azure-Data-Factory-Real-World-Scenarios.docx](https://github.com/AlvinDavid225/ADF-Real-World-Scenarios/raw/refs/heads/main/Azure-Data-Factory-Real-World-Scenarios.docx))**
 
 ## What's Inside
 
