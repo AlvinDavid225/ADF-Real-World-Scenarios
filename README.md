@@ -2,7 +2,7 @@
 
 A hands-on implementation guide covering **11 real ADF pipeline patterns** — from dynamic file movement to event-driven ingestion, incremental loads, and production error handling.
 
-📄 **[Download the full guide](./Azure-Data-Factory-Real-World-Scenarios.docx)**
+📄 **[Download the full documentation](./Azure-Data-Factory-Real-World-Scenarios.docx)**
 
 ## What's Inside
 
@@ -41,5 +41,5 @@ Azure Data Factory · Azure Data Lake Storage Gen2 · Azure SQL Database
 
 ---
 
-**Alvin David** — Data Engineer
+**Documented and maintained by Alvin David** — Data Engineer
 GitHub: [github.com/AlvinDavid225](https://github.com/AlvinDavid225)
